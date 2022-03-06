@@ -1,0 +1,61 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+h4 {
+  text-align: center;
+  padding: 5px 10px;
+}
+
+p {
+  margin: 0;
+  font-size: 18px;
+}
+
+.container {
+  max-width: 800px;
+  min-width: 300px;
+  margin-top: 30px;
+}
+
+.weather-container {
+  border: 2px solid rgb(113, 170, 223);
+  border-radius: 10px;
+  background-color: rgba(113, 170, 223, 0.185);
+  padding: 16px;
+  margin: 8px;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.062);
+}
+.search {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.today-emoji {
+  font-size: 100px;
+}
+
+.today-data {
+  position: relative;
+  top: 20px;
+}
+
+.infoData {
+  font-size: 20px;
+  text-align: center;
+}
+
+.Temp {
+  font-weight: bold;
+}
+.emoji {
+  text-align: center;
+}
+.Temp {
+  text-align: center;
+}
+.units {
+  font-size: 12px;
+  position: relative;
+  top: -7px;
+}
